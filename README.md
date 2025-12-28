@@ -1,2 +1,12 @@
-# password-generator-js
-A password generator built with vanilla JavaScript, capable of generating randomized passwords using letters, numbers, and symbols, with a user interface inspired by glassmorphism design principles to demonstrate modern front-end styling.
+# Password Generator (JavaScript)
+
+A simple password generator built with HTML, CSS, and JavaScript.
+Features:
+- Random password generation
+- Copy to clipboard
+- Glassmorphism-inspired UI
+
+Tech Stack:
+- HTML
+- CSS
+- JavaScript
